@@ -5,7 +5,7 @@ spalten = []
 zeilen = []
 blöcke = []
 freie_felder = set()
-
+test 2 
 def i2pos(i):
   spalte = i % 9
   zeile = i // 9
