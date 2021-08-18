@@ -5,7 +5,7 @@ spalten = []
 zeilen = []
 blöcke = []
 freie_felder = set()
-
+import matplotlib
 
 def i2pos(i):
   spalte = i % 9
